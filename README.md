@@ -1,4 +1,4 @@
-# Advent of Code Solutions
+# Advent of Code 2022 Solutions
 
 This repository contains my solutions to the Advent of Code challenges. Advent of Code is an annual programming event where participants solve daily coding puzzles throughout the month of December.
 
@@ -8,7 +8,7 @@ Each day's solution is organized in a separate directory, labeled as `day-xx`, w
 
 - [Day 1](day-01/day-01.py) - Calorie Counting
 - [Day 2](day-02/day-02.py) - Rock Paper Scissors
-- [Day 3](day-03/day-03.py) - Description
+- [Day 3](day-03/day-03.py) - Rucksack Reorganization
 - [Day 4](day-04/day-04.py) - Description
 - [Day 5](day-05/day-05.py) - Description
 - [Day 6](day-06/day-06.py) - Description
