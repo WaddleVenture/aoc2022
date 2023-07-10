@@ -11,7 +11,7 @@ Each day's solution is organized in a separate directory, labeled as `day-xx`, w
 - [Day 3](day-03/day-03.py) - Rucksack Reorganization
 - [Day 4](day-04/day-04.py) - Camp Cleanup
 - [Day 5](day-05/day-05.py) - Supply Stacks
-- [Day 6](day-06/day-06.py) - Description
+- [Day 6](day-06/day-06.py) - Tuning Trouble
 - [Day 7](day-07/day-07.py) - Description
 - [Day 8](day-08/day-08.py) - Description
 - [Day 9](day-09/day-09.py) - Description
