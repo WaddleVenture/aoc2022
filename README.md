@@ -14,7 +14,7 @@ Each day's solution is organized in a separate directory, labeled as `day-xx`, w
 - [Day 6](day-06/day-06.py) - Tuning Trouble
 - [Day 7](day-07/day-07.py) - No Space Left On Device
 - [Day 8](day-08/day-08.py) - Treetop Tree House
-- [Day 9](day-09/day-09.py) - Description
+- [Day 9](day-09/day-09.py) - Rope Bridge
 - [Day 10](day-10/day-10.py) - Description
 - [Day 11](day-11/day-11.py) - Description
 - [Day 12](day-12/day-12.py) - Description
