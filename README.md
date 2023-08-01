@@ -4,6 +4,10 @@ This repository contains my solutions to the Advent of Code challenges. Advent o
 
 Each day's solution is organized in a separate directory, labeled as `day-xx`, where `xx` represents the day number. Inside each directory, you will find the code files and any necessary input files for that particular challenge.
 
+## Status
+
+Unfortunatelu, due to holiday season and other commitments, I couldn't complete all the puzzles for Advent of Code 2022. The repository contains solutions up to Day 9 part 1. I may revisit and finish the remaining challenges in the future.
+
 ## Table of Contents
 
 - [Day 1](day-01/day-01.py) - Calorie Counting
